@@ -11,8 +11,6 @@ public class AccountRegistrationPage extends BasePage{
         super(driver);
     } 
     
-    
-
 
     @FindBy(xpath="//input[@id='input-firstname']")
     WebElement txtFirstname;
@@ -111,3 +109,6 @@ public class AccountRegistrationPage extends BasePage{
 
     }
 }
+
+
+//good
