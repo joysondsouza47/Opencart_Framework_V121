@@ -1,37 +1,58 @@
 package testCases;
 
+import org.openqa.selenium.remote.tracing.opentelemetry.SeleniumSpanExporter;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
-import testBase.BaseClass;
+import testBase.Baseclass;
 
-public class TC001AccountRegistrationTest extends BaseClass {
+public class TC001AccountRegistrationTest extends Baseclass {
+
 
     @Test
-    public void verify_account_registration()
+    public void myaccount()
     {
-        HomePage hp = new HomePage(driver);
-        hp.clickMyAccount();
-        hp.clickRegister();
+        logger.info("**** Starting TC001AccountRegistrationTest ****");
+        try {
+            HomePage hp = new HomePage(driver);
+            hp.myaccount();
+            logger.info("Clicked on My Account Link..");
+            hp.register();
+            logger.info("Clicked on My Register Link..");
 
-        AccountRegistrationPage regpage = new AccountRegistrationPage(driver);
-        regpage.setFirstName(randomstring().toUpperCase());
-        regpage.setLastName(randomstring().toUpperCase());
-        regpage.setEmail(randomstring() +"@gmail.com");
-        regpage.setTelephone(randomnumber());
+            AccountRegistrationPage ar = new AccountRegistrationPage(driver);
+            logger.info("Providing customer details");
 
-        String password = randomalpanum();
-        System.out.println(password);
-        regpage.setPassword(password);
-        regpage.setConfirmPassword(password);
+            ar.setFirstName(randomapbhabet());
+            ar.setLastName(randomapbhabet());
+            ar.setEmail(randomapbhabet() + "@gmail.com");
+            ar.setTelephone(randomnumber());
 
-        regpage.setPrivacyPolicy();
-        regpage.clickContinue();
+            String password = randomalphanum();
+            ar.setPassword(password);
+            ar.setConfirmPassword(password);
+            ar.setPrivacyPolicy();
+            ar.clickContinue();
+            logger.info("Validating expected message..");
+            if(ar.getConfirmationMsg().equals("Your Accoun Has Been Created!"))
+            {
+                Assert.assertTrue(true);
+            }
+            else
+            {
+                logger.error("Test failed..");
+                logger.debug("Debug logs..");
+                Assert.assertTrue(false);
+            }
+        }
+        catch(Exception e)
+        {
+            Assert.fail();
+        }
 
-        String confmsg = regpage.getConfirmationMsg();
-        Assert.assertEquals(confmsg,"Your Account Has Been Created!");
-
+        logger.info(" ****** finished***** ");
     }
+
 
 }
