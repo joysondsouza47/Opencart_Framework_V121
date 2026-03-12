@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="cross Test Suite" parallel="tests">
+    <test name="test 01">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="testCases.TC001Accountregistration"/>
+        </classes>
+    </test>
+    <test name="test 02" >
+        <parameter name="browser" value="edge"></parameter>
+        <classes>
+            <class name="testCases.TC001Accountregistration"/>
+        </classes>
+    </test>
+</suite>
