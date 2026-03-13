@@ -17,10 +17,10 @@ Data is invalid - login success - test fail  - logout
 Data is invalid -- login failed - test pass
 */
 
-public class TC_003_LoginDDT extends baseclass
+public class TC003LoginDDT extends baseclass
 {
 
-	@Test(dataProvider="LoginData",dataProviderClass=DataProviders.class)
+	@Test(dataProvider="LoginData",dataProviderClass=DataProviders.class, groups ="DataDriven")
 	public void verify_loginDDT(String email, String password, String exp)
 	{
 		logger.info("**** Starting TC_003_LoginDDT *****");

@@ -50,3 +50,136 @@
 2026-03-13 11:44:27 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
 2026-03-13 11:44:27 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
 2026-03-13 11:44:37 INFO  TC_003_LoginDDT:55 - *******Test execution completed*******
+2026-03-13 16:26:01 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 16:26:09 INFO  TC001Accountregistration:45 - *******Test execution started*******
+2026-03-13 16:26:15 INFO  TC002LoginTest:45 - *******Test execution started*******
+2026-03-13 16:27:05 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 16:27:08 INFO  TC001Accountregistration:45 - *******Test execution started*******
+2026-03-13 16:27:09 INFO  TC001Accountregistration:47 - URL opened
+2026-03-13 16:27:10 INFO  TC001Accountregistration:19 - Myaccount check verified
+2026-03-13 16:27:12 INFO  TC001Accountregistration:21 - Registration page opened
+2026-03-13 16:27:18 INFO  TC001Accountregistration:55 - *******Test execution completed*******
+2026-03-13 16:27:20 INFO  TC002LoginTest:45 - *******Test execution started*******
+2026-03-13 16:27:21 INFO  TC002LoginTest:47 - URL opened
+2026-03-13 16:27:21 INFO  TC002LoginTest:17 - *****starting test login *******
+2026-03-13 16:27:22 INFO  TC002LoginTest:21 - login page is received
+2026-03-13 16:27:25 INFO  TC002LoginTest:36 - *****completed test login *******
+2026-03-13 16:27:25 INFO  TC002LoginTest:55 - *******Test execution completed*******
+2026-03-13 16:27:41 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 16:27:44 INFO  TC002LoginTest:45 - *******Test execution started*******
+2026-03-13 16:27:45 INFO  TC002LoginTest:47 - URL opened
+2026-03-13 16:27:45 INFO  TC002LoginTest:17 - *****starting test login *******
+2026-03-13 16:27:46 INFO  TC002LoginTest:21 - login page is received
+2026-03-13 16:27:49 INFO  TC002LoginTest:36 - *****completed test login *******
+2026-03-13 16:27:49 INFO  TC002LoginTest:55 - *******Test execution completed*******
+2026-03-13 16:28:11 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 16:28:13 INFO  TC001Accountregistration:45 - *******Test execution started*******
+2026-03-13 16:28:15 INFO  TC001Accountregistration:47 - URL opened
+2026-03-13 16:28:15 INFO  TC001Accountregistration:19 - Myaccount check verified
+2026-03-13 16:28:17 INFO  TC001Accountregistration:21 - Registration page opened
+2026-03-13 16:28:21 INFO  TC001Accountregistration:55 - *******Test execution completed*******
+2026-03-13 16:29:36 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 16:29:51 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 16:29:53 INFO  TC003LoginDDT:45 - *******Test execution started*******
+2026-03-13 16:29:54 INFO  TC003LoginDDT:47 - URL opened
+2026-03-13 16:29:56 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 16:30:08 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 16:30:20 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 16:30:20 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 16:30:32 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 16:30:32 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 16:30:44 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 16:30:44 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 17:27:00 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 17:27:04 INFO  TC001Accountregistration:50 - *******Test execution started*******
+2026-03-13 17:27:08 INFO  TC001Accountregistration:52 - URL opened
+2026-03-13 17:27:08 INFO  TC001Accountregistration:19 - Myaccount check verified
+2026-03-13 17:27:10 INFO  TC001Accountregistration:21 - Registration page opened
+2026-03-13 17:27:13 INFO  TC001Accountregistration:60 - *******Test execution completed*******
+2026-03-13 17:27:15 INFO  TC002LoginTest:50 - *******Test execution started*******
+2026-03-13 17:27:16 INFO  TC002LoginTest:52 - URL opened
+2026-03-13 17:27:16 INFO  TC002LoginTest:17 - *****starting test login *******
+2026-03-13 17:27:16 INFO  TC002LoginTest:21 - login page is received
+2026-03-13 17:27:18 INFO  TC002LoginTest:36 - *****completed test login *******
+2026-03-13 17:27:18 INFO  TC002LoginTest:60 - *******Test execution completed*******
+2026-03-13 17:29:13 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 17:29:14 INFO  TC001Accountregistration:50 - *******Test execution started*******
+2026-03-13 17:29:15 INFO  TC001Accountregistration:52 - URL opened
+2026-03-13 17:29:15 INFO  TC001Accountregistration:19 - Myaccount check verified
+2026-03-13 17:29:16 INFO  TC001Accountregistration:21 - Registration page opened
+2026-03-13 17:29:19 INFO  TC001Accountregistration:60 - *******Test execution completed*******
+2026-03-13 17:29:20 INFO  TC002LoginTest:50 - *******Test execution started*******
+2026-03-13 17:29:21 INFO  TC002LoginTest:52 - URL opened
+2026-03-13 17:29:21 INFO  TC002LoginTest:17 - *****starting test login *******
+2026-03-13 17:29:23 INFO  TC002LoginTest:21 - login page is received
+2026-03-13 17:29:24 INFO  TC002LoginTest:36 - *****completed test login *******
+2026-03-13 17:29:24 INFO  TC002LoginTest:60 - *******Test execution completed*******
+2026-03-13 17:29:49 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 17:29:50 INFO  TC003LoginDDT:50 - *******Test execution started*******
+2026-03-13 17:29:51 INFO  TC003LoginDDT:52 - URL opened
+2026-03-13 17:29:52 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 17:30:03 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 17:30:13 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 17:30:13 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 17:30:24 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 17:30:24 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 17:30:34 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 17:30:34 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 17:33:01 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 17:33:02 INFO  TC001Accountregistration:50 - *******Test execution started*******
+2026-03-13 17:33:03 INFO  TC001Accountregistration:52 - URL opened
+2026-03-13 17:33:03 INFO  TC001Accountregistration:19 - Myaccount check verified
+2026-03-13 17:33:04 INFO  TC001Accountregistration:21 - Registration page opened
+2026-03-13 17:33:07 INFO  TC001Accountregistration:60 - *******Test execution completed*******
+2026-03-13 17:33:08 INFO  TC002LoginTest:50 - *******Test execution started*******
+2026-03-13 17:33:09 INFO  TC002LoginTest:52 - URL opened
+2026-03-13 17:33:09 INFO  TC002LoginTest:17 - *****starting test login *******
+2026-03-13 17:33:10 INFO  TC002LoginTest:21 - login page is received
+2026-03-13 17:33:11 INFO  TC002LoginTest:36 - *****completed test login *******
+2026-03-13 17:33:11 INFO  TC002LoginTest:60 - *******Test execution completed*******
+2026-03-13 18:06:59 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 18:07:02 INFO  TC003LoginDDT:50 - *******Test execution started*******
+2026-03-13 18:07:04 INFO  TC003LoginDDT:52 - URL opened
+2026-03-13 18:07:05 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 18:07:16 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 18:07:27 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 18:07:27 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 18:07:39 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 18:07:39 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 18:07:50 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 18:07:50 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 18:11:52 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\Grouping.xml
+
+2026-03-13 18:11:53 INFO  TC003LoginDDT:50 - *******Test execution started*******
+2026-03-13 18:11:54 INFO  TC003LoginDDT:52 - URL opened
+2026-03-13 18:11:55 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 18:12:06 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 18:12:17 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 18:12:17 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 18:12:27 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 18:12:27 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 18:12:38 INFO  TC003LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 18:12:38 INFO  TC003LoginDDT:26 - **** Starting TC_003_LoginDDT *****

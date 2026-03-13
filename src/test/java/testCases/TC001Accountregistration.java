@@ -10,7 +10,7 @@ import testBase.baseclass;
 public class TC001Accountregistration extends baseclass {
 
 
-    @Test
+    @Test(groups={"Regression","Master"})
     public void Accountregister()
     {
 
