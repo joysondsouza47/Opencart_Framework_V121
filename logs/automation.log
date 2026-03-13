@@ -1,55 +1,52 @@
-2026-03-12 09:06:00 INFO  TC001Accountregistration:25 - *******Test execution started*******
-2026-03-12 09:06:01 INFO  TC001Accountregistration:27 - URL opened
-2026-03-12 09:06:01 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 09:06:01 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 09:06:05 INFO  TC001Accountregistration:35 - *******Test execution completed*******
-2026-03-12 09:47:26 INFO  TC001Accountregistration:25 - *******Test execution started*******
-2026-03-12 09:47:27 INFO  TC001Accountregistration:27 - URL opened
-2026-03-12 09:47:28 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 09:47:29 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 09:47:32 INFO  TC001Accountregistration:35 - *******Test execution completed*******
-2026-03-12 10:08:03 INFO  TC001Accountregistration:37 - *******Test execution started*******
-2026-03-12 10:08:12 INFO  TC001Accountregistration:39 - URL opened
-2026-03-12 10:08:12 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 10:08:14 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 10:08:17 INFO  TC001Accountregistration:47 - *******Test execution completed*******
-2026-03-12 10:09:26 INFO  TC001Accountregistration:37 - *******Test execution started*******
-2026-03-12 10:09:26 INFO  TC001Accountregistration:39 - URL opened
-2026-03-12 10:09:27 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 10:09:27 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 10:09:30 INFO  TC001Accountregistration:47 - *******Test execution completed*******
-2026-03-12 10:09:38 INFO  TC001Accountregistration:37 - *******Test execution started*******
-2026-03-12 10:09:39 INFO  TC001Accountregistration:39 - URL opened
-2026-03-12 10:09:40 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 10:09:41 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 10:09:44 INFO  TC001Accountregistration:47 - *******Test execution completed*******
-2026-03-12 10:11:17 INFO  TC001Accountregistration:36 - *******Test execution started*******
-2026-03-12 10:11:18 INFO  TC001Accountregistration:38 - URL opened
-2026-03-12 10:11:19 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 10:11:19 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 10:11:23 INFO  TC001Accountregistration:46 - *******Test execution completed*******
-2026-03-12 10:11:25 INFO  TC001Accountregistration:36 - *******Test execution started*******
-2026-03-12 10:11:25 INFO  TC001Accountregistration:38 - URL opened
-2026-03-12 10:11:26 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 10:11:26 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 10:11:30 INFO  TC001Accountregistration:46 - *******Test execution completed*******
-2026-03-12 10:17:23 INFO  TC001Accountregistration:36 - *******Test execution started*******
-2026-03-12 10:17:25 INFO  TC001Accountregistration:38 - URL opened
-2026-03-12 10:17:25 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 10:17:25 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 10:17:29 INFO  TC001Accountregistration:46 - *******Test execution completed*******
-2026-03-12 10:17:31 INFO  TC001Accountregistration:36 - *******Test execution started*******
-2026-03-12 10:17:32 INFO  TC001Accountregistration:38 - URL opened
-2026-03-12 10:17:32 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 10:17:32 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 10:17:36 INFO  TC001Accountregistration:46 - *******Test execution completed*******
-2026-03-12 10:21:21 INFO  TC001Accountregistration:36 - *******Test execution started*******
-2026-03-12 10:21:21 INFO  TC001Accountregistration:36 - *******Test execution started*******
-2026-03-12 10:21:23 INFO  TC001Accountregistration:38 - URL opened
-2026-03-12 10:21:23 INFO  TC001Accountregistration:38 - URL opened
-2026-03-12 10:21:23 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 10:21:23 INFO  TC001Accountregistration:19 - Myaccount check verified
-2026-03-12 10:21:24 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 10:21:24 INFO  TC001Accountregistration:21 - Registration page opened
-2026-03-12 10:21:27 INFO  TC001Accountregistration:46 - *******Test execution completed*******
-2026-03-12 10:21:28 INFO  TC001Accountregistration:46 - *******Test execution completed*******
+2026-03-13 08:38:16 INFO  TC002LoginTest:45 - *******Test execution started*******
+2026-03-13 08:38:31 INFO  TC002LoginTest:47 - URL opened
+2026-03-13 08:38:31 INFO  TC002LoginTest:17 - *****starting test login *******
+2026-03-13 08:38:32 INFO  TC002LoginTest:21 - login page is received
+2026-03-13 08:38:34 INFO  TC002LoginTest:35 - *****completed test login *******
+2026-03-13 08:38:34 INFO  TC002LoginTest:55 - *******Test execution completed*******
+2026-03-13 08:42:08 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\testng.xml
+
+2026-03-13 08:42:10 INFO  TC002LoginTest:45 - *******Test execution started*******
+2026-03-13 08:42:11 INFO  TC002LoginTest:47 - URL opened
+2026-03-13 08:42:11 INFO  TC002LoginTest:17 - *****starting test login *******
+2026-03-13 08:42:12 INFO  TC002LoginTest:21 - login page is received
+2026-03-13 08:42:12 INFO  TC002LoginTest:35 - *****completed test login *******
+2026-03-13 08:42:12 INFO  TC002LoginTest:55 - *******Test execution completed*******
+2026-03-13 08:43:05 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\testng.xml
+
+2026-03-13 08:43:06 INFO  TC002LoginTest:45 - *******Test execution started*******
+2026-03-13 08:43:08 INFO  TC002LoginTest:47 - URL opened
+2026-03-13 08:43:08 INFO  TC002LoginTest:17 - *****starting test login *******
+2026-03-13 08:43:08 INFO  TC002LoginTest:21 - login page is received
+2026-03-13 08:43:09 INFO  TC002LoginTest:35 - *****completed test login *******
+2026-03-13 08:43:09 INFO  TC002LoginTest:55 - *******Test execution completed*******
+2026-03-13 08:44:02 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\testng.xml
+
+2026-03-13 08:44:03 INFO  TC001Accountregistration:45 - *******Test execution started*******
+2026-03-13 08:44:04 INFO  TC001Accountregistration:47 - URL opened
+2026-03-13 08:44:05 INFO  TC001Accountregistration:19 - Myaccount check verified
+2026-03-13 08:44:06 INFO  TC001Accountregistration:21 - Registration page opened
+2026-03-13 08:44:10 INFO  TC001Accountregistration:55 - *******Test execution completed*******
+2026-03-13 08:44:11 INFO  TC002LoginTest:45 - *******Test execution started*******
+2026-03-13 08:44:14 INFO  TC002LoginTest:47 - URL opened
+2026-03-13 08:44:14 INFO  TC002LoginTest:17 - *****starting test login *******
+2026-03-13 08:44:14 INFO  TC002LoginTest:21 - login page is received
+2026-03-13 08:44:15 INFO  TC002LoginTest:35 - *****completed test login *******
+2026-03-13 08:44:15 INFO  TC002LoginTest:55 - *******Test execution completed*******
+2026-03-13 11:43:24 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation framework\Opencart_Framework_V121\testng.xml
+
+2026-03-13 11:43:34 INFO  TC_003_LoginDDT:45 - *******Test execution started*******
+2026-03-13 11:43:41 INFO  TC_003_LoginDDT:47 - URL opened
+2026-03-13 11:43:42 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 11:43:54 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 11:44:05 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 11:44:05 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 11:44:16 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 11:44:16 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 11:44:27 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-03-13 11:44:27 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-03-13 11:44:37 INFO  TC_003_LoginDDT:55 - *******Test execution completed*******

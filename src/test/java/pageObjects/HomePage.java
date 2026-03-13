@@ -27,7 +27,7 @@ public class HomePage extends BasicClass{
     {
         Registrationlnk.click();
     }
-    public void LoginPage()
+    public void Loginlnk()
     {
         Loginpagelnk.click();
     }

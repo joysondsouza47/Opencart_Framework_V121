@@ -11,17 +11,26 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.time.Duration;
+import java.util.Properties;
 
 public class baseclass {
 
     public WebDriver driver;
     public Logger logger;
+    public Properties p;
 
     @BeforeClass
     @Parameters("browser")
-    public void openapp(String br)
-    {
+    public void openapp(String br) throws IOException {
+
+        FileReader file = new FileReader("./src//test//resources//config.properties");
+        p = new Properties();
+        p.load(file);
+
         logger = LogManager.getLogger(this.getClass());
         switch (br.toLowerCase())
         {
@@ -34,7 +43,7 @@ public class baseclass {
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         logger.info("*******Test execution started*******");
-        driver.get("http://localhost/opencart/upload/");
+        driver.get(p.getProperty("appurl1"));
         logger.info("URL opened");
         driver.manage().window().maximize();
     }
