@@ -114,23 +114,23 @@ public class ExtentReportManager implements ITestListener {
 		}
 
 		
-		  try {
-			  URL url = new  URL("file:///"+System.getProperty("user.dir")+"\\reports\\"+repName);
-
-		  // Create the email message
-		  ImageHtmlEmail email = new ImageHtmlEmail();
-		  email.setDataSourceResolver(new DataSourceUrlResolver(url));
-		  email.setHostName("smtp.googlemail.com");
-		  email.setSmtpPort(465);
-		  email.setAuthenticator(new DefaultAuthenticator("joysondsouza1999@gmail.com","Joysan@2914"));
-		  email.setSSLOnConnect(true);
-		  email.setFrom("joysondsouza1999@gmail.com"); //Sender
-		  email.setSubject("Test Results");
-		  email.setMsg("Please find Attached Report....");
-		  email.addTo("joysondsouza37@gmail.com"); //Receiver
-		  email.attach(url, "extent report", "please check report...");
-		  email.send(); // send the email
-		  }
+//		  try {
+//			  URL url = new  URL("file:///"+System.getProperty("user.dir")+"\\reports\\"+repName);
+//
+//		  // Create the email message
+//		  ImageHtmlEmail email = new ImageHtmlEmail();
+//		  email.setDataSourceResolver(new DataSourceUrlResolver(url));
+//		  email.setHostName("smtp.googlemail.com");
+//		  email.setSmtpPort(465);
+//		  email.setAuthenticator(new DefaultAuthenticator("joysondsouza1999@gmail.com","Joysan@2914"));
+//		  email.setSSLOnConnect(true);
+//		  email.setFrom("joysondsouza1999@gmail.com"); //Sender
+//		  email.setSubject("Test Results");
+//		  email.setMsg("Please find Attached Report....");
+//		  email.addTo("joysondsouza37@gmail.com"); //Receiver
+//		  email.attach(url, "extent report", "please check report...");
+//		  email.send(); // send the email
+//		  }
 		  catch(Exception e)
 		  {
 			  e.printStackTrace();

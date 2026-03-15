@@ -6,11 +6,25 @@
     </listeners>
     <test name="test 01">
         <parameter name="browser" value="chrome"/>
+        <parameter name="os" value="Linux"/>
     <classes>
-<!--        <class name="testCases.TC001Accountregistration"/>-->
-<!--        <class name="testCases.TC002LoginTest"/>-->
-        <class name="testCases.TC003LoginDDT"/>
+        <class name="testCases.TC001Accountregistration"/>
+        <class name="testCases.TC002LoginTest"/>
+<!--        <class name="testCases.TC003LoginDDT"/>-->
 
     </classes>
+    </test>
+    <test name="test 02">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="os" value="Linux"/>
+        <classes>
+            <class name="testCases.TC001Accountregistration"/>
+            <class name="testCases.TC002LoginTest"/>
+            <!--        <class name="testCases.TC003LoginDDT"/>-->
+
+
+
+
+        </classes>
     </test>
 </suite>
